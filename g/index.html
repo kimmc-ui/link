@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0b1426">
+<title>링크 모음</title>
+<meta name="description" content="골든타임·몸속극장 영상에 나온 상품 링크 모음">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap">
+<style>
+:root{--acc:#ffb547;--acc2:#ff7a3d;--bg:#0b1426;--ink:#f4f1ea;--dim:rgba(244,241,234,.62);--card:rgba(10,12,20,.58);--line:rgba(255,255,255,.09)}
+*{box-sizing:border-box;margin:0;padding:0}
+html{background:var(--bg)}
+body{font-family:"Noto Sans KR",system-ui,sans-serif;color:var(--ink);background:var(--bg);min-height:100vh;-webkit-font-smoothing:antialiased}
+#poly{position:fixed;inset:0;width:100%;z-index:0;pointer-events:none}
+main{position:relative;z-index:1;max-width:520px;margin:0 auto;padding:16px 16px 48px}
+#disc{font-size:12px;line-height:1.5;color:var(--dim);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:9px 12px;backdrop-filter:blur(6px)}
+.tabs{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin:14px 0 18px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:5px}
+.tab{font:700 15px/1 inherit;font-family:inherit;color:var(--dim);background:none;border:0;border-radius:10px;padding:12px 0;cursor:pointer}
+.tab[aria-selected=true]{color:#111;background:var(--acc)}
+#profile{display:flex;gap:16px;align-items:center}
+#profile img{border-radius:22px;clip-path:polygon(50% 0,100% 25%,100% 75%,50% 100%,0 75%,0 25%);border-radius:0;flex:none}
+#profile h1{font-size:30px;font-weight:900;letter-spacing:-.02em;line-height:1.1}
+#profile h1 span{display:block;font-size:13px;font-weight:500;color:var(--acc);letter-spacing:.08em;margin-top:4px}
+#profile p{font-size:14px;color:var(--dim);margin-top:8px;line-height:1.5}
+#social{display:flex;flex-wrap:wrap;gap:6px;margin:16px 0 22px}
+#social a{font-size:12px;color:var(--ink);text-decoration:none;border:1px solid var(--line);background:var(--card);border-radius:99px;padding:6px 12px}
+.search{position:relative;margin-bottom:14px}
+#q{width:100%;font:inherit;font-size:15px;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:12px;padding:13px 14px}
+#q::placeholder{color:var(--dim)}
+#q:focus{outline:2px solid var(--acc);outline-offset:1px}
+.post{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px;margin-bottom:12px;backdrop-filter:blur(6px);scroll-margin-top:12px}
+.post.hit{border-color:var(--acc)}
+.post header{display:flex;gap:12px;align-items:center;margin-bottom:10px}
+.no{flex:none;display:grid;place-items:center;width:46px;height:46px;font-size:20px;font-weight:900;color:#111;background:linear-gradient(135deg,var(--acc),var(--acc2));clip-path:polygon(50% 0,100% 38%,82% 100%,18% 100%,0 38%)}
+.post h2{font-size:16px;font-weight:700;line-height:1.35}
+.post time{font-size:12px;color:var(--dim)}
+.item{display:grid;gap:3px;text-decoration:none;color:var(--ink);border-top:1px solid var(--line);padding:11px 2px}
+.item .nm{font-size:15px;font-weight:500}
+.item .why{font-size:13px;color:var(--dim)}
+.item .go{font-size:13px;font-weight:700;color:var(--acc)}
+.empty{text-align:center;color:var(--dim);font-size:14px;padding:40px 0}
+#note{font-size:12px;color:var(--dim);line-height:1.6;margin-top:22px;text-align:center}
+</style>
+</head>
+<body>
+<canvas id="poly"></canvas>
+<main>
+  <p id="disc"></p>
+  <nav class="tabs" role="tablist">
+    <button class="tab" data-c="g" role="tab">골든타임</button>
+    <button class="tab" data-c="m" role="tab">몸속극장</button>
+  </nav>
+  <section id="profile"></section>
+  <nav id="social"></nav>
+  <div class="search"><input id="q" type="search" inputmode="search" placeholder="영상 번호나 상품 이름으로 찾기" aria-label="검색"></div>
+  <section id="list"></section>
+  <p id="note"></p>
+</main>
+<script>window.LINKHUB_BASE='../';window.LINKHUB_PRESET='g';</script>
+<script src="../app.js"></script>
+</body>
+</html>

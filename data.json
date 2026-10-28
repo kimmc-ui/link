@@ -1,0 +1,61 @@
+{
+  "disclosure": "이 페이지의 상품 링크는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "channels": {
+    "g": {
+      "name": "골든타임",
+      "sub": "생존 시뮬레이션",
+      "img": "img/goldentime.jpg",
+      "tagline": "그 순간, 무엇을 해야 할까. 대비와 생존을 3D로.",
+      "note": "모든 영상은 공개 자료 기반 가상 시뮬레이션입니다. 실제 상황에서는 정부·지자체 안내를 따르세요.",
+      "social": {
+        "유튜브": "https://www.youtube.com/@goldentimekr",
+        "인스타그램": "https://www.instagram.com/goldentimekr",
+        "틱톡": "https://www.tiktok.com/@goldentimekr",
+        "페이스북": "https://www.facebook.com/goldentimekr",
+        "네이버 클립": "https://clip.naver.com/@kmmngcl"
+      }
+    },
+    "m": {
+      "name": "몸속극장",
+      "sub": "인체 시뮬레이션",
+      "img": "img/momsok.jpg",
+      "tagline": "아플 때 몸 안에서 벌어지는 일을 3D로.",
+      "note": "영상은 이해를 돕기 위한 가상 재현입니다. 진단과 치료는 전문의와 상담하세요.",
+      "social": {
+        "유튜브": "https://www.youtube.com/@momsokkr",
+        "인스타그램": "https://www.instagram.com/momsokkr",
+        "틱톡": "https://www.tiktok.com/@momsokkr",
+        "페이스북": "https://www.facebook.com/momsokkr",
+        "네이버 클립": "https://clip.naver.com/@kmmngcl"
+      }
+    }
+  },
+  "posts": [
+    {
+      "no": 1,
+      "channel": "g",
+      "date": "2026-10-28",
+      "title": "섬광이 보였다면, 당신에게 남은 시간은?",
+      "items": [
+        {
+          "name": "비상 생존 키트",
+          "url": "https://link.coupang.com/a/icRlszd0Wy",
+          "why": "대피할 때 바로 들고 나갈 비상용품 묶음"
+        }
+      ]
+    },
+    {
+      "no": 1,
+      "channel": "m",
+      "date": "2026-10-28",
+      "title": "목디스크가 생길 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "경추 베개",
+          "url": "https://link.coupang.com/a/icRoaO9GGO",
+          "why": "누웠을 때 목의 곡선을 받쳐 주는 베개"
+        }
+      ]
+    }
+  ]
+}
