@@ -64,7 +64,17 @@
       .filter((p) => !q || String(p.no) === q.replace(/^#|번$/g, "") || (p.title + (p.items || []).map((i) => i.name).join(" ")).toLowerCase().includes(q))
       .sort((a, b) => b.no - a.no);
 
-    $("#list").innerHTML = posts.length ? posts.map((p) => `
+    const lf = ch.longform && !q ? `
+      <article class="post lf">
+        <a class="lfbtn" href="${esc(ch.longform.url)}" target="_blank" rel="noopener">▶ 전체 영상 보기 <small>유튜브 롱폼</small></a>
+        <header><div><h2>${esc(ch.longform.title)}</h2><time>${esc(ch.longform.date || "")}</time></div></header>
+        ${(ch.longform.items || []).map((it) => `
+          <a class="item" href="${esc(it.url)}" target="_blank" rel="noopener sponsored">
+            <span class="nm">${esc(it.name)}</span>${it.why ? `<span class="why">${esc(it.why)}</span>` : ""}
+            <span class="go">쿠팡에서 보기 →</span>
+          </a>`).join("")}
+      </article>` : "";
+    $("#list").innerHTML = lf + (posts.length ? posts.map((p) => `
       <article class="post" id="v${p.no}">
         <header><b class="no">${p.no}</b><div><h2>${esc(p.title)}</h2><time>${esc(p.date)}</time></div></header>
         ${(p.items || []).map((it) => `
@@ -73,7 +83,7 @@
             <span class="go">쿠팡에서 보기 →</span>
           </a>`).join("")}
       </article>`).join("")
-      : `<p class="empty">${q ? "찾는 영상이 없어요. 영상 번호로 검색해 보세요." : "첫 영상의 링크를 준비하고 있어요."}</p>`;
+      : `<p class="empty">${q ? "찾는 영상이 없어요. 영상 번호로 검색해 보세요." : "첫 영상의 링크를 준비하고 있어요."}</p>`);
     $("#note").textContent = ch.note;
 
     // 해시로 특정 영상 바로 가기 (#v3)

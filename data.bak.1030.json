@@ -1,0 +1,243 @@
+{
+  "disclosure": "이 페이지의 상품 링크는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "channels": {
+    "g": {
+      "name": "골든타임",
+      "sub": "생존 시뮬레이션",
+      "img": "img/goldentime.jpg",
+      "tagline": "그 순간, 무엇을 해야 할까. 대비와 생존을 3D로.",
+      "note": "모든 영상은 공개 자료 기반 가상 시뮬레이션입니다. 실제 상황에서는 정부·지자체 안내를 따르세요.",
+      "social": {
+        "유튜브": "https://www.youtube.com/@goldentimekr",
+        "인스타그램": "https://www.instagram.com/goldentimekr",
+        "틱톡": "https://www.tiktok.com/@goldentimekr",
+        "페이스북": "https://www.facebook.com/goldentimekr",
+        "네이버 클립": "https://clip.naver.com/@kmmngcl"
+      }
+    },
+    "m": {
+      "name": "몸속극장",
+      "sub": "인체 시뮬레이션",
+      "img": "img/momsok.jpg",
+      "tagline": "아플 때 몸 안에서 벌어지는 일을 3D로.",
+      "note": "영상은 이해를 돕기 위한 가상 재현입니다. 진단과 치료는 전문의와 상담하세요.",
+      "social": {
+        "유튜브": "https://www.youtube.com/@momsokkr",
+        "인스타그램": "https://www.instagram.com/momsokkr",
+        "틱톡": "https://www.tiktok.com/@momsokkr",
+        "페이스북": "https://www.facebook.com/momsokkr",
+        "네이버 클립": "https://clip.naver.com/@kmmngcl"
+      }
+    }
+  },
+  "posts": [
+    {
+      "no": 1,
+      "channel": "g",
+      "date": "2026-10-28",
+      "title": "섬광이 보였다면, 당신에게 남은 시간은?",
+      "items": [
+        {
+          "name": "비상 생존 키트",
+          "url": "https://link.coupang.com/a/icRlszd0Wy",
+          "why": "대피할 때 바로 들고 나갈 비상용품 묶음"
+        }
+      ]
+    },
+    {
+      "no": 1,
+      "channel": "m",
+      "date": "2026-10-28",
+      "title": "목디스크가 생길 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "경추 베개",
+          "url": "https://link.coupang.com/a/icRoaO9GGO",
+          "why": "누웠을 때 목의 곡선을 받쳐 주는 베개"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "channel": "g",
+      "date": "2026-10-28",
+      "title": "한겨울 대정전, 72시간을 버틸 수 있을까?",
+      "items": [
+        {
+          "name": "충전식 랜턴",
+          "url": "https://link.coupang.com/a/iddYoSvUGW",
+          "why": "정전 때 촛불 대신 켜 두는 충전식 조명"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "channel": "m",
+      "date": "2026-10-28",
+      "title": "허리디스크가 터질 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "요추 쿠션",
+          "url": "https://link.coupang.com/a/iddzpKnWsS",
+          "why": "의자에 앉을 때 허리 뒤에 대는 쿠션"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "channel": "g",
+      "date": "2026-10-29",
+      "title": "집이 흔들리기 시작하면 | 골든타임 1분",
+      "items": [
+        {
+          "name": "고양이 이동장",
+          "url": "https://link.coupang.com/a/ierIXlIqbc",
+          "why": "단단한 하드형이라 낙하물에도 튼튼하고, 대피할 때 바로 꺼내 쓰는 이동장"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "channel": "m",
+      "date": "2026-10-29",
+      "title": "독감에 걸리면 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "비접촉 체온계",
+          "url": "https://link.coupang.com/a/ier9SZuB88",
+          "why": "이마에 대지 않고 체온을 숫자로 확인하는 용도"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "channel": "g",
+      "date": "2026-10-29",
+      "title": "복도에 연기가 찼다면 | 골든타임",
+      "items": [
+        {
+          "name": "화재 대피용 방연마스크",
+          "url": "https://link.coupang.com/a/ierLbhK1Ia",
+          "why": "연기 속을 지나 대피해야 할 때 코와 입을 가리는 용도"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "channel": "m",
+      "date": "2026-10-29",
+      "title": "편두통이 생길 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "온열 수면 안대",
+          "url": "https://link.coupang.com/a/iesa4G6CMS",
+          "why": "빛을 가리고 눈가를 따뜻하게 감싸는 수면용 안대"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "channel": "g",
+      "date": "2026-10-29",
+      "title": "공습경보 사이렌이 울리면 | 골든타임 1분",
+      "items": [
+        {
+          "name": "핸드크랭크 라디오",
+          "url": "https://link.coupang.com/a/idkgE1UrLM",
+          "why": "전기가 끊겨도 손으로 돌려 충전해 대피소에서 방송을 듣는 라디오"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "channel": "m",
+      "date": "2026-10-29",
+      "title": "손목터널증후군이 생길 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "손목 보호대",
+          "url": "https://link.coupang.com/a/iesceJwSt2",
+          "why": "키보드·마우스 오래 쓰는 날 손목을 감싸 두는 용도"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "channel": "g",
+      "date": "2026-10-29",
+      "title": "폭우 속 침수차에 갇혔다면 | 골든타임",
+      "items": [
+        {
+          "name": "차량용 비상탈출 망치",
+          "url": "https://link.coupang.com/a/ierNa5zWrA",
+          "why": "운전석 손 닿는 곳에 두고, 침수 때 유리창 모서리를 깨는 탈출 도구"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "channel": "m",
+      "date": "2026-10-29",
+      "title": "심근경색이 생길 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "가정용 자동혈압계",
+          "url": "https://link.coupang.com/a/idkjuHDPRk",
+          "why": "집에서 혈압을 숫자로 기록해 두는 용도"
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "channel": "g",
+      "date": "2026-10-30",
+      "title": "생존배낭 하나로 72시간 버틴다면 | 골든타임 72시간",
+      "items": [
+        {
+          "name": "생존배낭 세트",
+          "url": "https://link.coupang.com/a/ierOSX5fcO",
+          "why": "라디오·손전등·구급용품 등 기본 비상용품이 한 가방에 담긴 세트"
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "channel": "m",
+      "date": "2026-10-30",
+      "title": "인후통이 생길 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "가습기",
+          "url": "https://link.coupang.com/a/iesdScQhpY",
+          "why": "건조한 방 안 습도를 맞춰 두는 용도"
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "channel": "g",
+      "date": "2026-10-30",
+      "title": "갑자기 단수 3일이면 | 골든타임 3일",
+      "items": [
+        {
+          "name": "접이식 물통",
+          "url": "https://link.coupang.com/a/ierQCIIvT3",
+          "why": "급수 지원 물을 받아 오고, 안 쓸 땐 접어서 보관하는 물통"
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "channel": "m",
+      "date": "2026-10-30",
+      "title": "속쓰림(역류성 식도염)이 생길 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "역류방지 경사 쿠션",
+          "url": "https://link.coupang.com/a/iesfo75VCu",
+          "why": "잘 때 상체를 비스듬히 받쳐 주는 경사형 쿠션"
+        }
+      ]
+    }
+  ]
+}

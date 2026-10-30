@@ -27,6 +27,23 @@
         "틱톡": "https://www.tiktok.com/@momsokkr",
         "페이스북": "https://www.facebook.com/momsokkr",
         "네이버 클립": "https://clip.naver.com/@kmmngcl"
+      },
+      "longform": {
+        "title": "고지혈증, 혈관 속에서 실제로 벌어지는 일 (20분)",
+        "url": "https://youtu.be/hufK6uQ0edA",
+        "date": "2026-10-30",
+        "items": [
+          {
+            "name": "가정용 자동혈압계",
+            "url": "https://link.coupang.com/a/idkjuHDPRk",
+            "why": "집에서 혈압을 꾸준히 기록할 때"
+          },
+          {
+            "name": "스마트 체중계",
+            "url": "https://link.coupang.com/a/iesIN3k1bU",
+            "why": "체중·체지방 변화를 앱으로 기록"
+          }
+        ]
       }
     }
   },
