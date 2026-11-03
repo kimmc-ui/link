@@ -530,6 +530,21 @@
           "why": "잠든 사이 연기를 먼저 알려 주는 천장용 단독경보형 화재감지기"
         }
       ]
+    },
+    {
+      "no": 38,
+      "channel": "g",
+      "date": "2026-11-03",
+      "title": "눈 온 다음 날 얼어붙은 계단 | 골든타임 1초",
+      "items": [
+        {
+          "name": "미끄럼방지 신발 아이젠",
+          "url": "https://link.coupang.com/a/im13SGAYIm",
+          "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/57a8/63801f466aa6dff1cdf513b948648c336c12e663762e549f4685d35bc80a.png",
+          "price": 19800,
+          "why": "눈 온 다음 날 얼어붙은 길을 걸을 때 신발에 덧신는 미끄럼 방지 아이젠"
+        }
+      ]
     }
   ]
 }
