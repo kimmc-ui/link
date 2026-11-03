@@ -1,520 +1,535 @@
 {
- "disclosure": "이 페이지의 상품 링크는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
- "channels": {
-  "g": {
-   "name": "골든타임",
-   "sub": "생존 시뮬레이션",
-   "img": "img/goldentime.jpg",
-   "tagline": "그 순간, 무엇을 해야 할까. 대비와 생존을 3D로.",
-   "note": "모든 영상은 공개 자료 기반 가상 시뮬레이션입니다. 실제 상황에서는 정부·지자체 안내를 따르세요.",
-   "social": {
-    "유튜브": "https://www.youtube.com/@goldentimekr",
-    "인스타그램": "https://www.instagram.com/goldentimekr",
-    "틱톡": "https://www.tiktok.com/@.3d742",
-    "페이스북": "https://www.facebook.com/goldentimekr",
-    "네이버 클립": "https://clip.naver.com/@kmmngcl"
-   }
-  },
-  "m": {
-   "name": "몸속극장",
-   "sub": "인체 시뮬레이션",
-   "img": "img/momsok.jpg",
-   "tagline": "아플 때 몸 안에서 벌어지는 일을 3D로.",
-   "note": "영상은 이해를 돕기 위한 가상 재현입니다. 진단과 치료는 전문의와 상담하세요.",
-   "social": {
-    "유튜브": "https://www.youtube.com/@momsokkr",
-    "인스타그램": "https://www.instagram.com/momsokkr",
-    "틱톡": "https://www.tiktok.com/@.3d742",
-    "페이스북": "https://www.facebook.com/momsokkr",
-    "네이버 클립": "https://clip.naver.com/@kmmngcl"
-   },
-   "longform": {
-    "title": "고지혈증, 혈관 속에서 실제로 벌어지는 일 (20분)",
-    "url": "https://youtu.be/hufK6uQ0edA",
-    "date": "2026-10-30",
-    "items": [
-     {
-      "name": "가정용 자동혈압계",
-      "url": "https://link.coupang.com/a/idkjuHDPRk",
-      "why": "집에서 혈압을 꾸준히 기록할 때"
-     },
-     {
-      "name": "스마트 체중계",
-      "url": "https://link.coupang.com/a/iesIN3k1bU",
-      "why": "체중·체지방 변화를 앱으로 기록"
-     }
-    ]
-   }
-  }
- },
- "posts": [
-  {
-   "no": 1,
-   "channel": "g",
-   "date": "2026-10-28",
-   "title": "섬광이 보였다면, 당신에게 남은 시간은?",
-   "items": [
-    {
-     "name": "비상 생존 키트",
-     "url": "https://link.coupang.com/a/im14duLnkO",
-     "why": "대피할 때 바로 들고 나갈 비상용품 묶음"
+  "disclosure": "이 페이지의 상품 링크는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "channels": {
+    "g": {
+      "name": "골든타임",
+      "sub": "생존 시뮬레이션",
+      "img": "img/goldentime.jpg",
+      "tagline": "그 순간, 무엇을 해야 할까. 대비와 생존을 3D로.",
+      "note": "모든 영상은 공개 자료 기반 가상 시뮬레이션입니다. 실제 상황에서는 정부·지자체 안내를 따르세요.",
+      "social": {
+        "유튜브": "https://www.youtube.com/@goldentimekr",
+        "인스타그램": "https://www.instagram.com/goldentimekr",
+        "틱톡": "https://www.tiktok.com/@.3d742",
+        "페이스북": "https://www.facebook.com/goldentimekr",
+        "네이버 클립": "https://clip.naver.com/@kmmngcl"
+      }
+    },
+    "m": {
+      "name": "몸속극장",
+      "sub": "인체 시뮬레이션",
+      "img": "img/momsok.jpg",
+      "tagline": "아플 때 몸 안에서 벌어지는 일을 3D로.",
+      "note": "영상은 이해를 돕기 위한 가상 재현입니다. 진단과 치료는 전문의와 상담하세요.",
+      "social": {
+        "유튜브": "https://www.youtube.com/@momsokkr",
+        "인스타그램": "https://www.instagram.com/momsokkr",
+        "틱톡": "https://www.tiktok.com/@.3d742",
+        "페이스북": "https://www.facebook.com/momsokkr",
+        "네이버 클립": "https://clip.naver.com/@kmmngcl"
+      },
+      "longform": {
+        "title": "고지혈증, 혈관 속에서 실제로 벌어지는 일 (20분)",
+        "url": "https://youtu.be/hufK6uQ0edA",
+        "date": "2026-10-30",
+        "items": [
+          {
+            "name": "가정용 자동혈압계",
+            "url": "https://link.coupang.com/a/idkjuHDPRk",
+            "why": "집에서 혈압을 꾸준히 기록할 때"
+          },
+          {
+            "name": "스마트 체중계",
+            "url": "https://link.coupang.com/a/iesIN3k1bU",
+            "why": "체중·체지방 변화를 앱으로 기록"
+          }
+        ]
+      }
     }
-   ]
   },
-  {
-   "no": 1,
-   "channel": "m",
-   "date": "2026-10-28",
-   "title": "목디스크가 생길 때 몸속에서 벌어지는 일",
-   "items": [
+  "posts": [
     {
-     "name": "경추 베개",
-     "url": "https://link.coupang.com/a/im14fUz3zE",
-     "why": "누웠을 때 목의 곡선을 받쳐 주는 베개"
-    }
-   ]
-  },
-  {
-   "no": 2,
-   "channel": "g",
-   "date": "2026-10-28",
-   "title": "한겨울 대정전, 72시간을 버틸 수 있을까?",
-   "items": [
+      "no": 1,
+      "channel": "g",
+      "date": "2026-10-28",
+      "title": "섬광이 보였다면, 당신에게 남은 시간은?",
+      "items": [
+        {
+          "name": "비상 생존 키트",
+          "url": "https://link.coupang.com/a/im14duLnkO",
+          "why": "대피할 때 바로 들고 나갈 비상용품 묶음"
+        }
+      ]
+    },
     {
-     "name": "충전식 랜턴",
-     "url": "https://link.coupang.com/a/iddYoSvUGW",
-     "why": "정전 때 촛불 대신 켜 두는 충전식 조명"
-    }
-   ]
-  },
-  {
-   "no": 2,
-   "channel": "m",
-   "date": "2026-10-28",
-   "title": "허리디스크가 터질 때 몸속에서 벌어지는 일",
-   "items": [
+      "no": 1,
+      "channel": "m",
+      "date": "2026-10-28",
+      "title": "목디스크가 생길 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "경추 베개",
+          "url": "https://link.coupang.com/a/im14fUz3zE",
+          "why": "누웠을 때 목의 곡선을 받쳐 주는 베개"
+        }
+      ]
+    },
     {
-     "name": "요추 쿠션",
-     "url": "https://link.coupang.com/a/im14kaYP4C",
-     "why": "의자에 앉을 때 허리 뒤에 대는 쿠션"
-    }
-   ]
-  },
-  {
-   "no": 4,
-   "channel": "g",
-   "date": "2026-10-29",
-   "title": "집이 흔들리기 시작하면 | 골든타임 1분",
-   "items": [
+      "no": 2,
+      "channel": "g",
+      "date": "2026-10-28",
+      "title": "한겨울 대정전, 72시간을 버틸 수 있을까?",
+      "items": [
+        {
+          "name": "충전식 랜턴",
+          "url": "https://link.coupang.com/a/iddYoSvUGW",
+          "why": "정전 때 촛불 대신 켜 두는 충전식 조명"
+        }
+      ]
+    },
     {
-     "name": "고양이 이동장",
-     "url": "https://link.coupang.com/a/im14mhPU2m",
-     "why": "단단한 하드형이라 낙하물에도 튼튼하고, 대피할 때 바로 꺼내 쓰는 이동장"
-    }
-   ]
-  },
-  {
-   "no": 4,
-   "channel": "m",
-   "date": "2026-10-29",
-   "title": "독감에 걸리면 몸속에서 벌어지는 일",
-   "items": [
+      "no": 2,
+      "channel": "m",
+      "date": "2026-10-28",
+      "title": "허리디스크가 터질 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "요추 쿠션",
+          "url": "https://link.coupang.com/a/im14kaYP4C",
+          "why": "의자에 앉을 때 허리 뒤에 대는 쿠션"
+        }
+      ]
+    },
     {
-     "name": "비접촉 체온계",
-     "url": "https://link.coupang.com/a/im14oyPQIK",
-     "why": "이마에 대지 않고 체온을 숫자로 확인하는 용도"
-    }
-   ]
-  },
-  {
-   "no": 5,
-   "channel": "g",
-   "date": "2026-10-29",
-   "title": "복도에 연기가 찼다면 | 골든타임",
-   "items": [
+      "no": 4,
+      "channel": "g",
+      "date": "2026-10-29",
+      "title": "집이 흔들리기 시작하면 | 골든타임 1분",
+      "items": [
+        {
+          "name": "고양이 이동장",
+          "url": "https://link.coupang.com/a/im14mhPU2m",
+          "why": "단단한 하드형이라 낙하물에도 튼튼하고, 대피할 때 바로 꺼내 쓰는 이동장"
+        }
+      ]
+    },
     {
-     "name": "화재 대피용 방연마스크",
-     "url": "https://link.coupang.com/a/ierLbhK1Ia",
-     "why": "연기 속을 지나 대피해야 할 때 코와 입을 가리는 용도"
-    }
-   ]
-  },
-  {
-   "no": 5,
-   "channel": "m",
-   "date": "2026-10-29",
-   "title": "편두통이 생길 때 몸속에서 벌어지는 일",
-   "items": [
+      "no": 4,
+      "channel": "m",
+      "date": "2026-10-29",
+      "title": "독감에 걸리면 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "비접촉 체온계",
+          "url": "https://link.coupang.com/a/im14oyPQIK",
+          "why": "이마에 대지 않고 체온을 숫자로 확인하는 용도"
+        }
+      ]
+    },
     {
-     "name": "온열 수면 안대",
-     "url": "https://link.coupang.com/a/im14tcsdrM",
-     "why": "빛을 가리고 눈가를 따뜻하게 감싸는 수면용 안대"
-    }
-   ]
-  },
-  {
-   "no": 3,
-   "channel": "g",
-   "date": "2026-10-29",
-   "title": "공습경보 사이렌이 울리면 | 골든타임 1분",
-   "items": [
+      "no": 5,
+      "channel": "g",
+      "date": "2026-10-29",
+      "title": "복도에 연기가 찼다면 | 골든타임",
+      "items": [
+        {
+          "name": "화재 대피용 방연마스크",
+          "url": "https://link.coupang.com/a/ierLbhK1Ia",
+          "why": "연기 속을 지나 대피해야 할 때 코와 입을 가리는 용도"
+        }
+      ]
+    },
     {
-     "name": "핸드크랭크 라디오",
-     "url": "https://link.coupang.com/a/idkgE1UrLM",
-     "why": "전기가 끊겨도 손으로 돌려 충전해 대피소에서 방송을 듣는 라디오"
-    }
-   ]
-  },
-  {
-   "no": 6,
-   "channel": "m",
-   "date": "2026-10-29",
-   "title": "손목터널증후군이 생길 때 몸속에서 벌어지는 일",
-   "items": [
+      "no": 5,
+      "channel": "m",
+      "date": "2026-10-29",
+      "title": "편두통이 생길 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "온열 수면 안대",
+          "url": "https://link.coupang.com/a/im14tcsdrM",
+          "why": "빛을 가리고 눈가를 따뜻하게 감싸는 수면용 안대"
+        }
+      ]
+    },
     {
-     "name": "손목 보호대",
-     "url": "https://link.coupang.com/a/im14xrJJKK",
-     "why": "키보드·마우스 오래 쓰는 날 손목을 감싸 두는 용도"
-    }
-   ]
-  },
-  {
-   "no": 6,
-   "channel": "g",
-   "date": "2026-10-29",
-   "title": "폭우 속 침수차에 갇혔다면 | 골든타임",
-   "items": [
+      "no": 3,
+      "channel": "g",
+      "date": "2026-10-29",
+      "title": "공습경보 사이렌이 울리면 | 골든타임 1분",
+      "items": [
+        {
+          "name": "핸드크랭크 라디오",
+          "url": "https://link.coupang.com/a/idkgE1UrLM",
+          "why": "전기가 끊겨도 손으로 돌려 충전해 대피소에서 방송을 듣는 라디오"
+        }
+      ]
+    },
     {
-     "name": "차량용 비상탈출 망치",
-     "url": "https://link.coupang.com/a/im14zl9ZqS",
-     "why": "운전석 손 닿는 곳에 두고, 침수 때 유리창 모서리를 깨는 탈출 도구"
-    }
-   ]
-  },
-  {
-   "no": 3,
-   "channel": "m",
-   "date": "2026-10-29",
-   "title": "심근경색이 생길 때 몸속에서 벌어지는 일",
-   "items": [
+      "no": 6,
+      "channel": "m",
+      "date": "2026-10-29",
+      "title": "손목터널증후군이 생길 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "손목 보호대",
+          "url": "https://link.coupang.com/a/im14xrJJKK",
+          "why": "키보드·마우스 오래 쓰는 날 손목을 감싸 두는 용도"
+        }
+      ]
+    },
     {
-     "name": "가정용 자동혈압계",
-     "url": "https://link.coupang.com/a/im14BFdOZo",
-     "why": "집에서 혈압을 숫자로 기록해 두는 용도"
-    }
-   ]
-  },
-  {
-   "no": 7,
-   "channel": "g",
-   "date": "2026-10-30",
-   "title": "생존배낭 하나로 72시간 버틴다면 | 골든타임 72시간",
-   "items": [
+      "no": 6,
+      "channel": "g",
+      "date": "2026-10-29",
+      "title": "폭우 속 침수차에 갇혔다면 | 골든타임",
+      "items": [
+        {
+          "name": "차량용 비상탈출 망치",
+          "url": "https://link.coupang.com/a/im14zl9ZqS",
+          "why": "운전석 손 닿는 곳에 두고, 침수 때 유리창 모서리를 깨는 탈출 도구"
+        }
+      ]
+    },
     {
-     "name": "생존배낭 세트",
-     "url": "https://link.coupang.com/a/im14DANEIe",
-     "why": "라디오·손전등·구급용품 등 기본 비상용품이 한 가방에 담긴 세트"
-    }
-   ]
-  },
-  {
-   "no": 7,
-   "channel": "m",
-   "date": "2026-10-30",
-   "title": "인후통이 생길 때 몸속에서 벌어지는 일",
-   "items": [
+      "no": 3,
+      "channel": "m",
+      "date": "2026-10-29",
+      "title": "심근경색이 생길 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "가정용 자동혈압계",
+          "url": "https://link.coupang.com/a/im14BFdOZo",
+          "why": "집에서 혈압을 숫자로 기록해 두는 용도"
+        }
+      ]
+    },
     {
-     "name": "가습기",
-     "url": "https://link.coupang.com/a/im14FBz0FM",
-     "why": "건조한 방 안 습도를 맞춰 두는 용도"
-    }
-   ]
-  },
-  {
-   "no": 8,
-   "channel": "g",
-   "date": "2026-10-30",
-   "title": "갑자기 단수 3일이면 | 골든타임 3일",
-   "items": [
+      "no": 7,
+      "channel": "g",
+      "date": "2026-10-30",
+      "title": "생존배낭 하나로 72시간 버틴다면 | 골든타임 72시간",
+      "items": [
+        {
+          "name": "생존배낭 세트",
+          "url": "https://link.coupang.com/a/im14DANEIe",
+          "why": "라디오·손전등·구급용품 등 기본 비상용품이 한 가방에 담긴 세트"
+        }
+      ]
+    },
     {
-     "name": "접이식 물통",
-     "url": "https://link.coupang.com/a/im14HwdfUG",
-     "why": "급수 지원 물을 받아 오고, 안 쓸 땐 접어서 보관하는 물통"
-    }
-   ]
-  },
-  {
-   "no": 8,
-   "channel": "m",
-   "date": "2026-10-30",
-   "title": "속쓰림(역류성 식도염)이 생길 때 몸속에서 벌어지는 일",
-   "items": [
+      "no": 7,
+      "channel": "m",
+      "date": "2026-10-30",
+      "title": "인후통이 생길 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "가습기",
+          "url": "https://link.coupang.com/a/im14FBz0FM",
+          "why": "건조한 방 안 습도를 맞춰 두는 용도"
+        }
+      ]
+    },
     {
-     "name": "역류방지 경사 쿠션",
-     "url": "https://link.coupang.com/a/im14JtgBI4",
-     "why": "잘 때 상체를 비스듬히 받쳐 주는 경사형 쿠션"
-    }
-   ]
-  },
-  {
-   "no": 9,
-   "channel": "g",
-   "date": "2026-10-30",
-   "title": "초강력 태풍이 오는 밤 | 골든타임 1분",
-   "items": [
+      "no": 8,
+      "channel": "g",
+      "date": "2026-10-30",
+      "title": "갑자기 단수 3일이면 | 골든타임 3일",
+      "items": [
+        {
+          "name": "접이식 물통",
+          "url": "https://link.coupang.com/a/im14HwdfUG",
+          "why": "급수 지원 물을 받아 오고, 안 쓸 땐 접어서 보관하는 물통"
+        }
+      ]
+    },
     {
-     "name": "충전식 랜턴",
-     "url": "https://link.coupang.com/a/iddYoSvUGW",
-     "why": "정전 때 양초 대신 켜 두는 충전식 조명"
-    }
-   ]
-  },
-  {
-   "no": 10,
-   "channel": "g",
-   "date": "2026-10-30",
-   "title": "해 지는 겨울 산에서 길을 잃었다 | 골든타임 1시간",
-   "items": [
+      "no": 8,
+      "channel": "m",
+      "date": "2026-10-30",
+      "title": "속쓰림(역류성 식도염)이 생길 때 몸속에서 벌어지는 일",
+      "items": [
+        {
+          "name": "역류방지 경사 쿠션",
+          "url": "https://link.coupang.com/a/im14JtgBI4",
+          "why": "잘 때 상체를 비스듬히 받쳐 주는 경사형 쿠션"
+        }
+      ]
+    },
     {
-     "name": "은박 보온담요",
-     "url": "https://link.coupang.com/a/im14LFoUTc",
-     "why": "접으면 손바닥만 해서 배낭에 넣어 두기 좋은 비상용 담요"
-    }
-   ]
-  },
-  {
-   "no": 11,
-   "channel": "g",
-   "date": "2026-10-30",
-   "title": "달리는 지하철에 연기가 난다면 | 골든타임",
-   "items": [
+      "no": 9,
+      "channel": "g",
+      "date": "2026-10-30",
+      "title": "초강력 태풍이 오는 밤 | 골든타임 1분",
+      "items": [
+        {
+          "name": "충전식 랜턴",
+          "url": "https://link.coupang.com/a/iddYoSvUGW",
+          "why": "정전 때 양초 대신 켜 두는 충전식 조명"
+        }
+      ]
+    },
     {
-     "name": "화재 대피용 방연마스크",
-     "url": "https://link.coupang.com/a/ierLbhK1Ia",
-     "why": "연기 속을 빠져나갈 때 코와 입을 가리는 휴대용 대피 마스크"
-    }
-   ]
-  },
-  {
-   "no": 12,
-   "channel": "g",
-   "date": "2026-10-31",
-   "title": "텐트 안 난로 켜고 잠들면 | 골든타임 80분",
-   "items": [
+      "no": 10,
+      "channel": "g",
+      "date": "2026-10-30",
+      "title": "해 지는 겨울 산에서 길을 잃었다 | 골든타임 1시간",
+      "items": [
+        {
+          "name": "은박 보온담요",
+          "url": "https://link.coupang.com/a/im14LFoUTc",
+          "why": "접으면 손바닥만 해서 배낭에 넣어 두기 좋은 비상용 담요"
+        }
+      ]
+    },
     {
-     "name": "일산화탄소 경보기",
-     "url": "https://link.coupang.com/a/im14NMWlnU",
-     "why": "색도 냄새도 없는 일산화탄소가 쌓이면 소리로 깨워 주는 휴대용 경보기"
-    }
-   ]
-  },
-  {
-   "no": 13,
-   "channel": "g",
-   "date": "2026-10-31",
-   "title": "문 열자 가스 냄새가 난다면 | 골든타임 1분",
-   "items": [
+      "no": 11,
+      "channel": "g",
+      "date": "2026-10-30",
+      "title": "달리는 지하철에 연기가 난다면 | 골든타임",
+      "items": [
+        {
+          "name": "화재 대피용 방연마스크",
+          "url": "https://link.coupang.com/a/ierLbhK1Ia",
+          "why": "연기 속을 빠져나갈 때 코와 입을 가리는 휴대용 대피 마스크"
+        }
+      ]
+    },
     {
-     "name": "가스 누출 경보기",
-     "url": "https://link.coupang.com/a/im14PHi4CO",
-     "why": "도시가스는 천장 가까이, LPG는 바닥 가까이 달아 새는 가스를 소리로 알려 주는 경보기"
-    }
-   ]
-  },
-  {
-   "no": 14,
-   "channel": "g",
-   "date": "2026-10-31",
-   "title": "산 아래 마을로 산불이 번져 온다면 | 골든타임 30분",
-   "items": [
+      "no": 12,
+      "channel": "g",
+      "date": "2026-10-31",
+      "title": "텐트 안 난로 켜고 잠들면 | 골든타임 80분",
+      "items": [
+        {
+          "name": "일산화탄소 경보기",
+          "url": "https://link.coupang.com/a/im14NMWlnU",
+          "why": "색도 냄새도 없는 일산화탄소가 쌓이면 소리로 깨워 주는 휴대용 경보기"
+        }
+      ]
+    },
     {
-     "name": "생존배낭 세트",
-     "url": "https://link.coupang.com/a/im14DANEIe",
-     "why": "현관에 두었다가 대피 안내가 나오면 바로 메고 나서는 비상용품 가방"
-    }
-   ]
-  },
-  {
-   "no": 15,
-   "channel": "g",
-   "date": "2026-10-31",
-   "title": "정전된 엘리베이터에 갇혔다면 | 골든타임 1분",
-   "items": [
+      "no": 13,
+      "channel": "g",
+      "date": "2026-10-31",
+      "title": "문 열자 가스 냄새가 난다면 | 골든타임 1분",
+      "items": [
+        {
+          "name": "가스 누출 경보기",
+          "url": "https://link.coupang.com/a/im14PHi4CO",
+          "why": "도시가스는 천장 가까이, LPG는 바닥 가까이 달아 새는 가스를 소리로 알려 주는 경보기"
+        }
+      ]
+    },
     {
-     "name": "충전식 랜턴",
-     "url": "https://link.coupang.com/a/iddYoSvUGW",
-     "why": "정전 때 촛불 대신 켜 두는 충전식 조명, 현관·가방에 하나씩"
-    }
-   ]
-  },
-  {
-   "no": 16,
-   "channel": "g",
-   "date": "2026-10-31",
-   "title": "해변에서 지진해일 경보가 울리면 | 골든타임",
-   "items": [
+      "no": 14,
+      "channel": "g",
+      "date": "2026-10-31",
+      "title": "산 아래 마을로 산불이 번져 온다면 | 골든타임 30분",
+      "items": [
+        {
+          "name": "생존배낭 세트",
+          "url": "https://link.coupang.com/a/im14DANEIe",
+          "why": "현관에 두었다가 대피 안내가 나오면 바로 메고 나서는 비상용품 가방"
+        }
+      ]
+    },
     {
-     "name": "방수 드라이백",
-     "url": "https://link.coupang.com/a/im14RQiIea",
-     "why": "휴대폰·비상용품을 물에 젖지 않게 담아 메고 두 손을 비운 채 대피하는 가방"
-    }
-   ]
-  },
-  {
-   "no": 17,
-   "channel": "g",
-   "date": "2026-11-01",
-   "title": "폭설에 고속도로가 멈췄다 | 골든타임 10시간",
-   "items": [
+      "no": 15,
+      "channel": "g",
+      "date": "2026-10-31",
+      "title": "정전된 엘리베이터에 갇혔다면 | 골든타임 1분",
+      "items": [
+        {
+          "name": "충전식 랜턴",
+          "url": "https://link.coupang.com/a/iddYoSvUGW",
+          "why": "정전 때 촛불 대신 켜 두는 충전식 조명, 현관·가방에 하나씩"
+        }
+      ]
+    },
     {
-     "name": "은박 보온담요",
-     "url": "https://link.coupang.com/a/im14LFoUTc",
-     "why": "얇게 접혀서 차 트렁크나 글로브박스에 넣어 두기 좋은 비상용 담요"
-    }
-   ]
-  },
-  {
-   "no": 18,
-   "channel": "g",
-   "date": "2026-11-01",
-   "title": "공장 화학물질 누출 문자가 왔다면 | 골든타임 5분",
-   "items": [
+      "no": 16,
+      "channel": "g",
+      "date": "2026-10-31",
+      "title": "해변에서 지진해일 경보가 울리면 | 골든타임",
+      "items": [
+        {
+          "name": "방수 드라이백",
+          "url": "https://link.coupang.com/a/im14RQiIea",
+          "why": "휴대폰·비상용품을 물에 젖지 않게 담아 메고 두 손을 비운 채 대피하는 가방"
+        }
+      ]
+    },
     {
-     "name": "방독면",
-     "url": "https://link.coupang.com/a/im14UWs9hQ",
-     "why": "화학물질이 새어 나왔을 때 코와 입을 지키는 호흡 보호구"
-    }
-   ]
-  },
-  {
-   "no": 19,
-   "channel": "g",
-   "date": "2026-11-01",
-   "title": "폭염 속 산책 중 강아지가 쓰러졌다 | 골든타임 15분",
-   "items": [
+      "no": 17,
+      "channel": "g",
+      "date": "2026-11-01",
+      "title": "폭설에 고속도로가 멈췄다 | 골든타임 10시간",
+      "items": [
+        {
+          "name": "은박 보온담요",
+          "url": "https://link.coupang.com/a/im14LFoUTc",
+          "why": "얇게 접혀서 차 트렁크나 글로브박스에 넣어 두기 좋은 비상용 담요"
+        }
+      ]
+    },
     {
-     "name": "반려견 쿨링 조끼",
-     "url": "https://link.coupang.com/a/im14W2fmay",
-     "why": "여름 산책 때 강아지에게 입히는 쿨링 조끼 (더운 시간 피하기가 먼저)"
-    }
-   ]
-  },
-  {
-   "no": 20,
-   "channel": "g",
-   "date": "2026-11-01",
-   "title": "무너진 건물 잔해 속에 갇혔다면 | 골든타임",
-   "items": [
+      "no": 18,
+      "channel": "g",
+      "date": "2026-11-01",
+      "title": "공장 화학물질 누출 문자가 왔다면 | 골든타임 5분",
+      "items": [
+        {
+          "name": "방독면",
+          "url": "https://link.coupang.com/a/im14UWs9hQ",
+          "why": "화학물질이 새어 나왔을 때 코와 입을 지키는 호흡 보호구"
+        }
+      ]
+    },
     {
-     "name": "생존 호루라기",
-     "url": "https://link.coupang.com/a/im14ZhzXI4",
-     "why": "고함 대신 소리로 위치를 알릴 수 있게 가방·열쇠고리에 달아 두는 호루라기"
-    }
-   ]
-  },
-  {
-   "no": 21,
-   "channel": "g",
-   "date": "2026-11-01",
-   "title": "근처 원전에서 방사선 비상 문자가 왔다면 | 골든타임 10분",
-   "items": [
+      "no": 19,
+      "channel": "g",
+      "date": "2026-11-01",
+      "title": "폭염 속 산책 중 강아지가 쓰러졌다 | 골든타임 15분",
+      "items": [
+        {
+          "name": "반려견 쿨링 조끼",
+          "url": "https://link.coupang.com/a/im14W2fmay",
+          "why": "여름 산책 때 강아지에게 입히는 쿨링 조끼 (더운 시간 피하기가 먼저)"
+        }
+      ]
+    },
     {
-     "name": "핸드크랭크 라디오",
-     "url": "https://link.coupang.com/a/idkgE1UrLM",
-     "why": "전기가 끊겨도 손으로 돌려 실내 대피 중 정부 안내 방송을 듣는 라디오"
-    }
-   ]
-  },
-  {
-   "no": 22,
-   "channel": "g",
-   "date": "2026-11-02",
-   "title": "전화·인터넷 카드결제까지 먹통이 됐다 | 골든타임 1시간",
-   "items": [
+      "no": 20,
+      "channel": "g",
+      "date": "2026-11-01",
+      "title": "무너진 건물 잔해 속에 갇혔다면 | 골든타임",
+      "items": [
+        {
+          "name": "생존 호루라기",
+          "url": "https://link.coupang.com/a/im14ZhzXI4",
+          "why": "고함 대신 소리로 위치를 알릴 수 있게 가방·열쇠고리에 달아 두는 호루라기"
+        }
+      ]
+    },
     {
-     "name": "대용량 보조배터리",
-     "url": "https://link.coupang.com/a/im142lJ7Ke",
-     "why": "통신 장애 때 휴대폰을 오래 버티게 해 주는 비상전원, 평소에 충전해 두기"
-    }
-   ]
-  },
-  {
-   "no": 23,
-   "channel": "g",
-   "date": "2026-11-02",
-   "title": "산책 중 천둥이 친다면 | 골든타임 1분",
-   "items": [
+      "no": 21,
+      "channel": "g",
+      "date": "2026-11-01",
+      "title": "근처 원전에서 방사선 비상 문자가 왔다면 | 골든타임 10분",
+      "items": [
+        {
+          "name": "핸드크랭크 라디오",
+          "url": "https://link.coupang.com/a/idkgE1UrLM",
+          "why": "전기가 끊겨도 손으로 돌려 실내 대피 중 정부 안내 방송을 듣는 라디오"
+        }
+      ]
+    },
     {
-     "name": "판초 우의",
-     "url": "https://link.coupang.com/a/im144grYyq",
-     "why": "우산 없이 두 손이 자유로워 목줄 잡고 걷기 편한 비옷"
-    }
-   ]
-  },
-  {
-   "no": 24,
-   "channel": "g",
-   "date": "2026-11-02",
-   "title": "폭우 속 \"차 빼세요\" 방송이 나온다면 | 골든타임",
-   "items": [
+      "no": 22,
+      "channel": "g",
+      "date": "2026-11-02",
+      "title": "전화·인터넷 카드결제까지 먹통이 됐다 | 골든타임 1시간",
+      "items": [
+        {
+          "name": "대용량 보조배터리",
+          "url": "https://link.coupang.com/a/im142lJ7Ke",
+          "why": "통신 장애 때 휴대폰을 오래 버티게 해 주는 비상전원, 평소에 충전해 두기"
+        }
+      ]
+    },
     {
-     "name": "차량용 비상탈출 망치",
-     "url": "https://link.coupang.com/a/im14zl9ZqS",
-     "why": "차 안에 갇혔을 때 창문을 깨고 안전벨트를 끊는 비상 탈출용, 운전석 손 닿는 곳에"
-    }
-   ]
-  },
-  {
-   "no": null,
-   "channel": "m",
-   "date": "2026-11-02",
-   "title": "혈압이 높을 때 혈관 벽에서 벌어지는 일",
-   "items": [
+      "no": 23,
+      "channel": "g",
+      "date": "2026-11-02",
+      "title": "산책 중 천둥이 친다면 | 골든타임 1분",
+      "items": [
+        {
+          "name": "판초 우의",
+          "url": "https://link.coupang.com/a/im144grYyq",
+          "why": "우산 없이 두 손이 자유로워 목줄 잡고 걷기 편한 비옷"
+        }
+      ]
+    },
     {
-     "name": "가정용 자동혈압계",
-     "url": "https://link.coupang.com/a/im14BFdOZo",
-     "why": "집에서 혈압을 숫자로 기록해 두는 용도"
-    }
-   ]
-  },
-  {
-   "no": 25,
-   "channel": "g",
-   "date": "2026-11-02",
-   "title": "폭우 뒤 산사태 신호가 보인다면 | 골든타임 10분",
-   "items": [
+      "no": 24,
+      "channel": "g",
+      "date": "2026-11-02",
+      "title": "폭우 속 \"차 빼세요\" 방송이 나온다면 | 골든타임",
+      "items": [
+        {
+          "name": "차량용 비상탈출 망치",
+          "url": "https://link.coupang.com/a/im14zl9ZqS",
+          "why": "차 안에 갇혔을 때 창문을 깨고 안전벨트를 끊는 비상 탈출용, 운전석 손 닿는 곳에"
+        }
+      ]
+    },
     {
-     "name": "생존배낭 세트",
-     "url": "https://link.coupang.com/a/im14DANEIe",
-     "why": "신호가 보이면 바로 메고 나갈 수 있게 비상용품을 한 가방에 담아 두는 세트"
-    }
-   ]
-  },
-  {
-   "no": 26,
-   "channel": "g",
-   "date": "2026-11-02",
-   "title": "10분 안에 집을 떠나야 한다면 | 골든타임 10분",
-   "items": [
+      "no": null,
+      "channel": "m",
+      "date": "2026-11-02",
+      "title": "혈압이 높을 때 혈관 벽에서 벌어지는 일",
+      "items": [
+        {
+          "name": "가정용 자동혈압계",
+          "url": "https://link.coupang.com/a/im14BFdOZo",
+          "why": "집에서 혈압을 숫자로 기록해 두는 용도"
+        }
+      ]
+    },
     {
-     "name": "비상식량 세트",
-     "url": "https://link.coupang.com/a/ier80r0kj6",
-     "why": "대피 가방에 바로 넣어 두는, 끓이지 않고 먹는 간편식 묶음"
-    }
-   ]
-  },
-  {
-   "no": 27,
-   "channel": "g",
-   "date": "2026-11-03",
-   "title": "운전 중 공습경보가 울리면 | 골든타임 1분",
-   "items": [
+      "no": 25,
+      "channel": "g",
+      "date": "2026-11-02",
+      "title": "폭우 뒤 산사태 신호가 보인다면 | 골든타임 10분",
+      "items": [
+        {
+          "name": "생존배낭 세트",
+          "url": "https://link.coupang.com/a/im14DANEIe",
+          "why": "신호가 보이면 바로 메고 나갈 수 있게 비상용품을 한 가방에 담아 두는 세트"
+        }
+      ]
+    },
     {
-     "name": "핸드크랭크 라디오",
-     "url": "https://link.coupang.com/a/idkgE1UrLM",
-     "why": "전기가 끊겨도 손으로 돌려 충전해 대피 중에도 정부 안내 방송을 듣는 라디오"
+      "no": 26,
+      "channel": "g",
+      "date": "2026-11-02",
+      "title": "10분 안에 집을 떠나야 한다면 | 골든타임 10분",
+      "items": [
+        {
+          "name": "비상식량 세트",
+          "url": "https://link.coupang.com/a/ier80r0kj6",
+          "why": "대피 가방에 바로 넣어 두는, 끓이지 않고 먹는 간편식 묶음"
+        }
+      ]
+    },
+    {
+      "no": 27,
+      "channel": "g",
+      "date": "2026-11-03",
+      "title": "운전 중 공습경보가 울리면 | 골든타임 1분",
+      "items": [
+        {
+          "name": "핸드크랭크 라디오",
+          "url": "https://link.coupang.com/a/idkgE1UrLM",
+          "why": "전기가 끊겨도 손으로 돌려 충전해 대피 중에도 정부 안내 방송을 듣는 라디오"
+        }
+      ]
+    },
+    {
+      "no": 37,
+      "channel": "g",
+      "date": "2026-11-03",
+      "title": "히터 옆 이불에 불이 붙었다 | 골든타임 10초",
+      "items": [
+        {
+          "name": "단독경보형 화재감지기",
+          "url": "https://link.coupang.com/a/im13MrLeRE",
+          "image": "https://t3c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/532a/9d71d28d7cd45a852ecffc1de4f4e2ba867da9c521e52115a5ffb67ba766.jpg",
+          "price": 9350,
+          "why": "잠든 사이 연기를 먼저 알려 주는 천장용 단독경보형 화재감지기"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }
