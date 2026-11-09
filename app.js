@@ -74,7 +74,13 @@
             <span class="go">쿠팡에서 보기 →</span>
           </a>`).join("")}
       </article>` : "";
-    $("#list").innerHTML = lf + (posts.length ? posts.map((p) => `
+    // 11-09 '게임' 칸: channels.<c>.game = {label, title, url, why} (로블록스 게임 바로가기, 제휴 링크 아님)
+    const gm = ch.game && !q ? `
+      <article class="post game">
+        <a class="gamebtn" href="${esc(ch.game.url)}" target="_blank" rel="noopener">${esc(ch.game.label || "🎮 게임")} <small>로블록스에서 열기 →</small></a>
+        <header><div><h2>${esc(ch.game.title)}</h2>${ch.game.why ? `<time>${esc(ch.game.why)}</time>` : ""}</div></header>
+      </article>` : "";
+    $("#list").innerHTML = gm + lf + (posts.length ? posts.map((p) => `
       <article class="post" id="v${p.no}">
         <header><b class="no">${p.no}</b><div><h2>${esc(p.title)}</h2><time>${esc(p.date)}</time></div></header>
         ${(p.items || []).map((it) => `
